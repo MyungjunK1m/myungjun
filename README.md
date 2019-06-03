@@ -6,11 +6,12 @@
 
 
 ## 프로젝트 개요
-본인의 프로젝트 개요에 대하여 작성합니다.
+Pandas의 Dataframe을 이용한 데이터 추출과, Numpy의 과학적 연산을 이용한, 아주 빠르고, 쉬운 공분산행렬 추출 및, Series 패키지를 통한 이동평균 연산을 통하여, 5년간의 주가 추세를 파악할 수 있습니다.
+
 
 ## 사용한 공공데이터 
-[데이터보기](https://github.com/cybermin/python2019/blob/master/%EB%B6%80%EC%82%B0%EA%B5%90%ED%86%B5%EA%B3%B5%EC%82%AC_%EB%8F%84%EC%8B%9C%EC%B2%A0%EB%8F%84%EC%97%AD%EC%82%AC%EC%A0%95%EB%B3%B4_20190520.csv)
-http://beta.fnguide.com/SNI/SNI_FactorModelDetail.asp?u_cd=3FM.5B5.X
+[데이터보기](http://beta.fnguide.com/SNI/SNI_FactorModelDetail.asp?u_cd=3FM.5B5.X)
+
 
 ## 소스
 * [링크로 소스 내용 보기](https://github.com/cybermin/python2019/blob/master/tes.py)
