@@ -47,7 +47,6 @@ cov=np.cov(data2)
 print(cov)
 # Moving Average(1year)
 .
-c
 hml_MovingAverage=hml.rolling(window=52).mean()
 smb_MovingAverage=smb.rolling(window=52).mean()
 hml_MovingAverage=pd.concat([date,hml_MovingAverage],axis=1)
